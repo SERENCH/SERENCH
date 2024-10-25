@@ -1,4 +1,4 @@
-## Hi there 👋
+## This guy's too lazy to write a README...
 
 <!--
 **SERENCH/SERENCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
